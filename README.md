@@ -2,13 +2,6 @@
 
 Far Away is a travel list website that allows you to create and manage your packing list for your upcoming trips. With Far Away, you can easily add items to your list, delete items, mark items as packed, delete all items at once, and sort the list based on description and packed status. This project is built using React, a popular JavaScript library for building user interfaces.
 
-# Screenshot
-
-Landing Page:
-![Screenshot 2024-05-29 082533](https://github.com/uvenkatateja/Far-away-list-React-app/assets/118493739/2dd8679a-d433-48f0-aebd-8239ac3ec525)
-
-Landing Page with list and sorting options:
-![Screenshot 2024-05-29 082835](https://github.com/uvenkatateja/Far-away-list-React-app/assets/118493739/68395987-3f4a-4a65-a984-f4db3dd07c53)
 
 
 
